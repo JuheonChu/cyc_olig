@@ -12,8 +12,14 @@ Day 02:
 
 Day 03: 
 - Find the best setting for icosahedral & octahedral structures by manipulating guiding potential values (e.g. weight_intra, weight_inter, guide_scale).
+### Tesing
+#### 1) weight_intra: 0.7, weight_inter: 0.7, guide_scale: 1.5, ``` contigmaps.contig = [480-480]```
+#### 2) weight_intra: 0.8, weight_inter: 0.6, guide_scale: 2.0, ``` contigmaps.contig = [480-480]```
+
 - Call for Proposal First Draft
 ### Resources:
 - [Artificial Neural Network](https://www.turing.com/kb/necessity-of-bias-in-neural-networks)
 - Review  [probabilistic diffusion model](https://arxiv.org/pdf/2006.11239.pdf).
 - Learn [Classifier-Free Guidance](https://arxiv.org/abs/2207.12598).
+
+  
