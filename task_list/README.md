@@ -12,4 +12,5 @@ Day 02:
 
 Day 03: 
 - Find the best setting for icosahedral & octahedral structures by manipulating guiding potential values (e.g. weight_intra, weight_inter, guide_scale).
-
+### Resources: [Artificial Neural Network](https://www.turing.com/kb/necessity-of-bias-in-neural-networks)
+- Call for Proposal First Draft
