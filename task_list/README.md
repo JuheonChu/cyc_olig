@@ -12,6 +12,8 @@ Day 02:
 
 Day 03: 
 - Find the best setting for icosahedral & octahedral structures by manipulating guiding potential values (e.g. weight_intra, weight_inter, guide_scale).
-### Resources: [Artificial Neural Network](https://www.turing.com/kb/necessity-of-bias-in-neural-networks)
 - Call for Proposal First Draft
-- Review Probabilistic RFDiffusion model by reading this [paper](https://arxiv.org/pdf/2006.11239.pdf)
+### Resources:
+- [Artificial Neural Network](https://www.turing.com/kb/necessity-of-bias-in-neural-networks)
+- Review  [probabilistic diffusion model](https://arxiv.org/pdf/2006.11239.pdf).
+- Learn [Classifier-Free Guidance](https://arxiv.org/abs/2207.12598).
