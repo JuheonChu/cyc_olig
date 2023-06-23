@@ -8,3 +8,7 @@ Day 01:
 Day 02:
 - Increase proficiency with the RFDiffusion model by generating hundreds of protein structures.
 - Attempt to generate cyclic oligomer.
+
+Day 03: 
+- Find the best setting for icosahedral & octahedral structures by manipulating guiding potential values (e.g. weight_intra, weight_inter, guide_scale)
+
