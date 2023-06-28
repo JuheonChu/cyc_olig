@@ -11,15 +11,14 @@ Day 02:
 - Review Gram-Schmidt which is principle to maintain the cyclic property of the oligomer structure.
 
 Day 03: 
-- Find the best setting for icosahedral & octahedral structures by manipulating guiding potential values (e.g. weight_intra, weight_inter, guide_scale).
-### Tesing
-#### 1) weight_intra: 0.7, weight_inter: 0.7, guide_scale: 1.5, ```contigmaps.contig = [480-480]```
-#### 2) weight_intra: 0.8, weight_inter: 0.6, guide_scale: 2.0, ```contigmaps.contig = [480-480]```
-
-- Call for Proposal First Draft
+- Find the best setting for icosahedral & octahedral structures by manipulating guiding potential values (e.g. weight_intra, weight_inter, guide_scale). This ended up that other guiding potentials did not contribute hugely in changing the icosahedron structures. To see the clear difference, we have to change `weight_inter` and `weight_intra`.
+- Call for Proposal First Draft (Complete)
 ### Resources:
 - [Artificial Neural Network](https://www.turing.com/kb/necessity-of-bias-in-neural-networks)
 - Review  [probabilistic diffusion model](https://arxiv.org/pdf/2006.11239.pdf).
 - Learn [Classifier-Free Guidance](https://arxiv.org/abs/2207.12598).
 
-  
+Day 04: 
+- Call for Proposal First Draft (Revised Draft based on David's feedback)
+- Compute average distances between C_a atoms and amino acid chains. Check David's parser file which returns data dictionary whose key is 'x,y,z' and includes 60 2-D matrices that denote the coordinates that correspond to each amino acid.
+- Analyze Professor's Gaurav's code.
