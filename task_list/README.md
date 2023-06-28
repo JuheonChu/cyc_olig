@@ -20,5 +20,5 @@ Day 03:
 
 Day 04: 
 - Call for Proposal First Draft (Revised Draft based on David's feedback)
-- Compute average distances between C_a atoms and amino acid chains. Check David's parser file which returns data dictionary whose key is 'x,y,z' and includes 60 2-D matrices that denote the coordinates that correspond to each amino acid.
-- Analyze Professor's Gaurav's code.
+- Compute average distances between C_a atoms and amino acid chains. Check David's parser file which returns data dictionary whose key is `x,y,z` and includes 60 2-D matrices that denote the coordinates that correspond to each amino acid.
+- Analyze Professor Gaurav's code.
