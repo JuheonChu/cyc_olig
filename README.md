@@ -5,7 +5,7 @@
   - Choosing only major subunits to generate the entire symmetric cyclic peptide complexes
   - Scaffold metal binding sites that contain non-canonical amino acids in them
 - Research Mentors/Advisors: Dr. Gaurav, Dr. Nikita Hanikel, David Juergens, Helen Eisenach
-- Principal Investigator (PI): Dr. Baker
+- Principal Investigator (PI): Dr. David Baker
 
 
 
